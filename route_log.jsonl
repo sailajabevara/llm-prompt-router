@@ -1,0 +1,41 @@
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list in python?", "final_response": "You can sort a list in Python using the built-in sorted() function or the list.sort() method."}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Could you tell me more about the role you are preparing for and your experience level?"}
+{"intent": "writing", "confidence": 0.9, "user_message": "Rewrite this sentence to be more professional", "final_response": "Try simplifying your sentence and removing unnecessary words to make it clearer and more professional."}
+{"intent": "data", "confidence": 0.9, "user_message": "what is the average of 12 45 23 67", "final_response": "The average of the numbers is 36.75."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list in python?", "final_response": "You can sort a list in Python using the built-in sorted() function or the list.sort() method."}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Could you tell me more about the role you are preparing for and your experience level?"}
+{"intent": "writing", "confidence": 0.9, "user_message": "Rewrite this sentence to be more professional", "final_response": "Try simplifying your sentence and removing unnecessary words to make it clearer and more professional."}
+{"intent": "data", "confidence": 0.9, "user_message": "what is the average of 12 45 23 67", "final_response": "The average of the numbers is 36.75."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list in python?", "final_response": "You can sort a list in Python using the built-in sorted() function or the list.sort() method."}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Could you tell me more about the role you are preparing for and your experience level?"}
+{"intent": "writing", "confidence": 0.9, "user_message": "Rewrite this sentence to be more professional", "final_response": "Try simplifying your sentence and removing unnecessary words to make it clearer and more professional."}
+{"intent": "data", "confidence": 0.9, "user_message": "what is the average of 12 45 23 67", "final_response": "The average of the numbers is 36.75."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list in python?", "final_response": "You can sort a list in Python using the built-in sorted() function or the list.sort() method."}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Could you tell me more about the role you are preparing for and your experience level?"}
+{"intent": "writing", "confidence": 0.9, "user_message": "Rewrite this sentence to be more professional", "final_response": "Try simplifying your sentence and removing unnecessary words to make it clearer and more professional."}
+{"intent": "data", "confidence": 0.9, "user_message": "what is the average of 12 45 23 67", "final_response": "The average of the numbers is 36.75."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list in python?", "final_response": "You can sort a list in Python using the built-in sorted() function or the list.sort() method."}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview", "final_response": "Could you tell me more about the role you are preparing for and your experience level?"}
+{"intent": "writing", "confidence": 0.9, "user_message": "Rewrite this sentence to be more professional", "final_response": "Try simplifying your sentence and removing unnecessary words to make it clearer and more professional."}
+{"intent": "data", "confidence": 0.9, "user_message": "what is the average of 12 45 23 67", "final_response": "The average of the numbers is 36.75."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "User: how do i sort list in python", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort a list of objects in python?", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}
+{"intent": "code", "confidence": 0.9, "user_message": "explain this sql query for me", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}
+{"intent": "code", "confidence": 0.9, "user_message": "This paragraph sounds awkward, can you help me fix it?", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}
+{"intent": "career", "confidence": 0.9, "user_message": "I'm preparing for a job interview, any tips?", "final_response": "Can you tell me your experience level and the job role you are targeting so I can give better advice?"}
+{"intent": "data", "confidence": 0.9, "user_message": "what's the average of these numbers: 12, 45, 23, 67, 34", "final_response": "The average of the numbers is 36.2. A bar chart would help visualize this."}
+{"intent": "unclear", "confidence": 0.5, "user_message": "Help me make this better.", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "unclear", "confidence": 0.5, "user_message": "hey", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "unclear", "confidence": 0.5, "user_message": "Can you write me a poem about clouds?", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "career", "confidence": 0.9, "user_message": "How do I structure a cover letter?", "final_response": "Can you tell me your experience level and the job role you are targeting so I can give better advice?"}
+{"intent": "unclear", "confidence": 0.5, "user_message": "clear", "final_response": "I'm not sure what you need. Are you asking for help with coding, data analysis, writing, or career advice?"}
+{"intent": "code", "confidence": 0.9, "user_message": "This paragraph sounds awkward, can you help me fix it?", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}
+{"intent": "writing", "confidence": 0.9, "user_message": "This paragraph sounds awkward, can you help me fix it?", "final_response": "Your writing may contain unnecessary words. Try simplifying sentences and avoiding passive voice."}
+{"intent": "writing", "confidence": 0.9, "user_message": "This paragraph sounds awkward, can you help me fix it?", "final_response": "Your writing may contain unnecessary words. Try simplifying sentences and avoiding passive voice."}
+{"intent": "writing", "confidence": 0.9, "user_message": "This paragraph sounds awkward, can you help me fix it?", "final_response": "Your writing may contain unnecessary words. Try simplifying sentences and avoiding passive voice."}
+{"intent": "code", "confidence": 0.9, "user_message": "how do i sort list in python", "final_response": "You can sort a list in Python using sorted() or list.sort(). Example: my_list.sort()"}

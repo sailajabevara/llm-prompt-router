@@ -1,0 +1,10 @@
+
+services:
+  prompt-router:
+    build: .
+    container_name: llm_prompt_router
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
+    command: python app.py
