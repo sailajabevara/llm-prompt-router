@@ -47,7 +47,7 @@ Components:
 
 ```bash
 git clone <your-repo-url>
-cd llm-prompt-router
+cd llm-prompt router
 ```
 ### 2. Install dependencies
 pip install -r requirements.txt
